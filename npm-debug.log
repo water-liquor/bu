@@ -1,0 +1,397 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\node.js\\node\\node.exe',
+1 verbose cli   'D:\\node.js\\node\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'boly-parser',
+1 verbose cli   '-D' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose install initial load of D:\mywork\package.json
+5 warn package.json test@1.0.0 No repository field.
+6 warn package.json test@1.0.0 No README data
+7 verbose installManyTop reading scoped package data from D:\mywork\node_modules\accepts\package.json
+8 verbose installManyTop reading scoped package data from D:\mywork\node_modules\ansi-regex\package.json
+9 verbose installManyTop reading scoped package data from D:\mywork\node_modules\ansi-styles\package.json
+10 verbose installManyTop reading scoped package data from D:\mywork\node_modules\archy\package.json
+11 verbose installManyTop reading scoped package data from D:\mywork\node_modules\arr-diff\package.json
+12 verbose installManyTop reading scoped package data from D:\mywork\node_modules\arr-flatten\package.json
+13 verbose installManyTop reading scoped package data from D:\mywork\node_modules\array-differ\package.json
+14 verbose installManyTop reading scoped package data from D:\mywork\node_modules\array-find-index\package.json
+15 verbose installManyTop reading scoped package data from D:\mywork\node_modules\array-uniq\package.json
+16 verbose installManyTop reading scoped package data from D:\mywork\node_modules\array-unique\package.json
+17 verbose installManyTop reading scoped package data from D:\mywork\node_modules\balanced-match\package.json
+18 verbose installManyTop reading scoped package data from D:\mywork\node_modules\batch\package.json
+19 verbose installManyTop reading scoped package data from D:\mywork\node_modules\beeper\package.json
+20 verbose installManyTop reading scoped package data from D:\mywork\node_modules\body-parser\package.json
+21 verbose installManyTop reading scoped package data from D:\mywork\node_modules\brace-expansion\package.json
+22 verbose installManyTop reading scoped package data from D:\mywork\node_modules\braces\package.json
+23 verbose installManyTop reading scoped package data from D:\mywork\node_modules\builtin-modules\package.json
+24 verbose installManyTop reading scoped package data from D:\mywork\node_modules\bytes\package.json
+25 verbose installManyTop reading scoped package data from D:\mywork\node_modules\camelcase\package.json
+26 verbose installManyTop reading scoped package data from D:\mywork\node_modules\camelcase-keys\package.json
+27 verbose installManyTop reading scoped package data from D:\mywork\node_modules\chalk\package.json
+28 verbose installManyTop reading scoped package data from D:\mywork\node_modules\clone\package.json
+29 verbose installManyTop reading scoped package data from D:\mywork\node_modules\clone-stats\package.json
+30 verbose installManyTop reading scoped package data from D:\mywork\node_modules\concat-map\package.json
+31 verbose installManyTop reading scoped package data from D:\mywork\node_modules\connect\package.json
+32 verbose installManyTop reading scoped package data from D:\mywork\node_modules\connect-livereload\package.json
+33 verbose installManyTop reading scoped package data from D:\mywork\node_modules\core-util-is\package.json
+34 verbose installManyTop reading scoped package data from D:\mywork\node_modules\currently-unhandled\package.json
+35 verbose installManyTop reading scoped package data from D:\mywork\node_modules\dateformat\package.json
+36 verbose installManyTop reading scoped package data from D:\mywork\node_modules\debug\package.json
+37 verbose installManyTop reading scoped package data from D:\mywork\node_modules\decamelize\package.json
+38 verbose installManyTop reading scoped package data from D:\mywork\node_modules\defaults\package.json
+39 verbose installManyTop reading scoped package data from D:\mywork\node_modules\depd\package.json
+40 verbose installManyTop reading scoped package data from D:\mywork\node_modules\deprecated\package.json
+41 verbose installManyTop reading scoped package data from D:\mywork\node_modules\destroy\package.json
+42 verbose installManyTop reading scoped package data from D:\mywork\node_modules\detect-file\package.json
+43 verbose installManyTop reading scoped package data from D:\mywork\node_modules\duplexer2\package.json
+44 verbose installManyTop reading scoped package data from D:\mywork\node_modules\ee-first\package.json
+45 verbose installManyTop reading scoped package data from D:\mywork\node_modules\ejs\package.json
+46 verbose installManyTop reading scoped package data from D:\mywork\node_modules\encodeurl\package.json
+47 verbose installManyTop reading scoped package data from D:\mywork\node_modules\end-of-stream\package.json
+48 verbose installManyTop reading scoped package data from D:\mywork\node_modules\error-ex\package.json
+49 verbose installManyTop reading scoped package data from D:\mywork\node_modules\escape-html\package.json
+50 verbose installManyTop reading scoped package data from D:\mywork\node_modules\escape-string-regexp\package.json
+51 verbose installManyTop reading scoped package data from D:\mywork\node_modules\etag\package.json
+52 verbose installManyTop reading scoped package data from D:\mywork\node_modules\expand-brackets\package.json
+53 verbose installManyTop reading scoped package data from D:\mywork\node_modules\expand-range\package.json
+54 verbose installManyTop reading scoped package data from D:\mywork\node_modules\expand-tilde\package.json
+55 verbose installManyTop reading scoped package data from D:\mywork\node_modules\express\package.json
+56 verbose installManyTop reading scoped package data from D:\mywork\node_modules\express-g\package.json
+57 verbose installManyTop reading scoped package data from D:\mywork\node_modules\extend\package.json
+58 verbose installManyTop reading scoped package data from D:\mywork\node_modules\extglob\package.json
+59 verbose installManyTop reading scoped package data from D:\mywork\node_modules\fancy-log\package.json
+60 verbose installManyTop reading scoped package data from D:\mywork\node_modules\faye-websocket\package.json
+61 verbose installManyTop reading scoped package data from D:\mywork\node_modules\filename-regex\package.json
+62 verbose installManyTop reading scoped package data from D:\mywork\node_modules\fill-range\package.json
+63 verbose installManyTop reading scoped package data from D:\mywork\node_modules\finalhandler\package.json
+64 verbose installManyTop reading scoped package data from D:\mywork\node_modules\find-index\package.json
+65 verbose installManyTop reading scoped package data from D:\mywork\node_modules\find-up\package.json
+66 verbose installManyTop reading scoped package data from D:\mywork\node_modules\findup-sync\package.json
+67 verbose installManyTop reading scoped package data from D:\mywork\node_modules\fined\package.json
+68 verbose installManyTop reading scoped package data from D:\mywork\node_modules\first-chunk-stream\package.json
+69 verbose installManyTop reading scoped package data from D:\mywork\node_modules\flagged-respawn\package.json
+70 verbose installManyTop reading scoped package data from D:\mywork\node_modules\for-in\package.json
+71 verbose installManyTop reading scoped package data from D:\mywork\node_modules\for-own\package.json
+72 verbose installManyTop reading scoped package data from D:\mywork\node_modules\fresh\package.json
+73 verbose installManyTop reading scoped package data from D:\mywork\node_modules\fs-exists-sync\package.json
+74 verbose installManyTop reading scoped package data from D:\mywork\node_modules\gaze\package.json
+75 verbose installManyTop reading scoped package data from D:\mywork\node_modules\get-stdin\package.json
+76 verbose installManyTop reading scoped package data from D:\mywork\node_modules\glob\package.json
+77 verbose installManyTop reading scoped package data from D:\mywork\node_modules\glob-base\package.json
+78 verbose installManyTop reading scoped package data from D:\mywork\node_modules\glob-parent\package.json
+79 verbose installManyTop reading scoped package data from D:\mywork\node_modules\glob-stream\package.json
+80 verbose installManyTop reading scoped package data from D:\mywork\node_modules\glob-watcher\package.json
+81 verbose installManyTop reading scoped package data from D:\mywork\node_modules\glob2base\package.json
+82 verbose installManyTop reading scoped package data from D:\mywork\node_modules\global-modules\package.json
+83 verbose installManyTop reading scoped package data from D:\mywork\node_modules\global-prefix\package.json
+84 verbose installManyTop reading scoped package data from D:\mywork\node_modules\globule\package.json
+85 verbose installManyTop reading scoped package data from D:\mywork\node_modules\glogg\package.json
+86 verbose installManyTop reading scoped package data from D:\mywork\node_modules\graceful-fs\package.json
+87 verbose installManyTop reading scoped package data from D:\mywork\node_modules\gulp\package.json
+88 verbose installManyTop reading scoped package data from D:\mywork\node_modules\gulp-concat\package.json
+89 verbose installManyTop reading scoped package data from D:\mywork\node_modules\gulp-scss\package.json
+90 verbose installManyTop reading scoped package data from D:\mywork\node_modules\gulp-uglify\package.json
+91 verbose installManyTop reading scoped package data from D:\mywork\node_modules\gulp-util\package.json
+92 verbose installManyTop reading scoped package data from D:\mywork\node_modules\gulp-webpack\package.json
+93 verbose installManyTop reading scoped package data from D:\mywork\node_modules\gulp-webserver\package.json
+94 verbose installManyTop reading scoped package data from D:\mywork\node_modules\gulplog\package.json
+95 verbose installManyTop reading scoped package data from D:\mywork\node_modules\has-ansi\package.json
+96 verbose installManyTop reading scoped package data from D:\mywork\node_modules\has-gulplog\package.json
+97 verbose installManyTop reading scoped package data from D:\mywork\node_modules\hosted-git-info\package.json
+98 verbose installManyTop reading scoped package data from D:\mywork\node_modules\http-errors\package.json
+99 verbose installManyTop reading scoped package data from D:\mywork\node_modules\iconv-lite\package.json
+100 verbose installManyTop reading scoped package data from D:\mywork\node_modules\indent-string\package.json
+101 verbose installManyTop reading scoped package data from D:\mywork\node_modules\inflight\package.json
+102 verbose installManyTop reading scoped package data from D:\mywork\node_modules\inherits\package.json
+103 verbose installManyTop reading scoped package data from D:\mywork\node_modules\ini\package.json
+104 verbose installManyTop reading scoped package data from D:\mywork\node_modules\interpret\package.json
+105 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is\package.json
+106 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-absolute\package.json
+107 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-arrayish\package.json
+108 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-buffer\package.json
+109 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-builtin-module\package.json
+110 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-dotfile\package.json
+111 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-equal-shallow\package.json
+112 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-extendable\package.json
+113 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-extglob\package.json
+114 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-finite\package.json
+115 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-glob\package.json
+116 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-number\package.json
+117 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-posix-bracket\package.json
+118 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-primitive\package.json
+119 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-relative\package.json
+120 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-unc-path\package.json
+121 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-utf8\package.json
+122 verbose installManyTop reading scoped package data from D:\mywork\node_modules\is-windows\package.json
+123 verbose installManyTop reading scoped package data from D:\mywork\node_modules\isarray\package.json
+124 verbose installManyTop reading scoped package data from D:\mywork\node_modules\isexe\package.json
+125 verbose installManyTop reading scoped package data from D:\mywork\node_modules\isobject\package.json
+126 verbose installManyTop reading scoped package data from D:\mywork\node_modules\kind-of\package.json
+127 verbose installManyTop reading scoped package data from D:\mywork\node_modules\liftoff\package.json
+128 verbose installManyTop reading scoped package data from D:\mywork\node_modules\load-json-file\package.json
+129 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash\package.json
+130 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._basecopy\package.json
+131 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._basetostring\package.json
+132 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._basevalues\package.json
+133 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._escapehtmlchar\package.json
+134 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._escapestringchar\package.json
+135 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._getnative\package.json
+136 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._htmlescapes\package.json
+137 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._isiterateecall\package.json
+138 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._isnative\package.json
+139 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._objecttypes\package.json
+140 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._reescape\package.json
+141 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._reevaluate\package.json
+142 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._reinterpolate\package.json
+143 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._reunescapedhtml\package.json
+144 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._root\package.json
+145 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash._shimkeys\package.json
+146 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.assignwith\package.json
+147 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.defaults\package.json
+148 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.escape\package.json
+149 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.isarguments\package.json
+150 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.isarray\package.json
+151 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.isempty\package.json
+152 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.isobject\package.json
+153 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.isplainobject\package.json
+154 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.isstring\package.json
+155 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.keys\package.json
+156 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.mapvalues\package.json
+157 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.pick\package.json
+158 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.restparam\package.json
+159 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.template\package.json
+160 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.templatesettings\package.json
+161 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lodash.values\package.json
+162 verbose installManyTop reading scoped package data from D:\mywork\node_modules\loud-rejection\package.json
+163 verbose installManyTop reading scoped package data from D:\mywork\node_modules\lru-cache\package.json
+164 verbose installManyTop reading scoped package data from D:\mywork\node_modules\map-cache\package.json
+165 verbose installManyTop reading scoped package data from D:\mywork\node_modules\map-obj\package.json
+166 verbose installManyTop reading scoped package data from D:\mywork\node_modules\media-typer\package.json
+167 verbose installManyTop reading scoped package data from D:\mywork\node_modules\meow\package.json
+168 verbose installManyTop reading scoped package data from D:\mywork\node_modules\micromatch\package.json
+169 verbose installManyTop reading scoped package data from D:\mywork\node_modules\mime\package.json
+170 verbose installManyTop reading scoped package data from D:\mywork\node_modules\mime-db\package.json
+171 verbose installManyTop reading scoped package data from D:\mywork\node_modules\mime-types\package.json
+172 verbose installManyTop reading scoped package data from D:\mywork\node_modules\minimatch\package.json
+173 verbose installManyTop reading scoped package data from D:\mywork\node_modules\minimist\package.json
+174 verbose installManyTop reading scoped package data from D:\mywork\node_modules\mkdirp\package.json
+175 verbose installManyTop reading scoped package data from D:\mywork\node_modules\ms\package.json
+176 verbose installManyTop reading scoped package data from D:\mywork\node_modules\multipipe\package.json
+177 verbose installManyTop reading scoped package data from D:\mywork\node_modules\natives\package.json
+178 verbose installManyTop reading scoped package data from D:\mywork\node_modules\negotiator\package.json
+179 verbose installManyTop reading scoped package data from D:\mywork\node_modules\node.extend\package.json
+180 verbose installManyTop reading scoped package data from D:\mywork\node_modules\nodejs-websocket\package.json
+181 verbose installManyTop reading scoped package data from D:\mywork\node_modules\normalize-package-data\package.json
+182 verbose installManyTop reading scoped package data from D:\mywork\node_modules\normalize-path\package.json
+183 verbose installManyTop reading scoped package data from D:\mywork\node_modules\number-is-nan\package.json
+184 verbose installManyTop reading scoped package data from D:\mywork\node_modules\object-assign\package.json
+185 verbose installManyTop reading scoped package data from D:\mywork\node_modules\object.omit\package.json
+186 verbose installManyTop reading scoped package data from D:\mywork\node_modules\on-finished\package.json
+187 verbose installManyTop reading scoped package data from D:\mywork\node_modules\once\package.json
+188 verbose installManyTop reading scoped package data from D:\mywork\node_modules\open\package.json
+189 verbose installManyTop reading scoped package data from D:\mywork\node_modules\orchestrator\package.json
+190 verbose installManyTop reading scoped package data from D:\mywork\node_modules\ordered-read-streams\package.json
+191 verbose installManyTop reading scoped package data from D:\mywork\node_modules\os-homedir\package.json
+192 verbose installManyTop reading scoped package data from D:\mywork\node_modules\os-tmpdir\package.json
+193 verbose installManyTop reading scoped package data from D:\mywork\node_modules\osenv\package.json
+194 verbose installManyTop reading scoped package data from D:\mywork\node_modules\parse-filepath\package.json
+195 verbose installManyTop reading scoped package data from D:\mywork\node_modules\parse-glob\package.json
+196 verbose installManyTop reading scoped package data from D:\mywork\node_modules\parse-json\package.json
+197 verbose installManyTop reading scoped package data from D:\mywork\node_modules\parseurl\package.json
+198 verbose installManyTop reading scoped package data from D:\mywork\node_modules\path-exists\package.json
+199 verbose installManyTop reading scoped package data from D:\mywork\node_modules\path-root\package.json
+200 verbose installManyTop reading scoped package data from D:\mywork\node_modules\path-root-regex\package.json
+201 verbose installManyTop reading scoped package data from D:\mywork\node_modules\path-type\package.json
+202 verbose installManyTop reading scoped package data from D:\mywork\node_modules\pify\package.json
+203 verbose installManyTop reading scoped package data from D:\mywork\node_modules\pinkie\package.json
+204 verbose installManyTop reading scoped package data from D:\mywork\node_modules\pinkie-promise\package.json
+205 verbose installManyTop reading scoped package data from D:\mywork\node_modules\preserve\package.json
+206 verbose installManyTop reading scoped package data from D:\mywork\node_modules\pretty-hrtime\package.json
+207 verbose installManyTop reading scoped package data from D:\mywork\node_modules\process-nextick-args\package.json
+208 verbose installManyTop reading scoped package data from D:\mywork\node_modules\proxy-middleware\package.json
+209 verbose installManyTop reading scoped package data from D:\mywork\node_modules\qs\package.json
+210 verbose installManyTop reading scoped package data from D:\mywork\node_modules\randomatic\package.json
+211 verbose installManyTop reading scoped package data from D:\mywork\node_modules\range-parser\package.json
+212 verbose installManyTop reading scoped package data from D:\mywork\node_modules\raw-body\package.json
+213 verbose installManyTop reading scoped package data from D:\mywork\node_modules\read-pkg\package.json
+214 verbose installManyTop reading scoped package data from D:\mywork\node_modules\read-pkg-up\package.json
+215 verbose installManyTop reading scoped package data from D:\mywork\node_modules\readable-stream\package.json
+216 verbose installManyTop reading scoped package data from D:\mywork\node_modules\rechoir\package.json
+217 verbose installManyTop reading scoped package data from D:\mywork\node_modules\redent\package.json
+218 verbose installManyTop reading scoped package data from D:\mywork\node_modules\regex-cache\package.json
+219 verbose installManyTop reading scoped package data from D:\mywork\node_modules\repeat-element\package.json
+220 verbose installManyTop reading scoped package data from D:\mywork\node_modules\repeat-string\package.json
+221 verbose installManyTop reading scoped package data from D:\mywork\node_modules\repeating\package.json
+222 verbose installManyTop reading scoped package data from D:\mywork\node_modules\replace-ext\package.json
+223 verbose installManyTop reading scoped package data from D:\mywork\node_modules\resolve\package.json
+224 verbose installManyTop reading scoped package data from D:\mywork\node_modules\resolve-dir\package.json
+225 verbose installManyTop reading scoped package data from D:\mywork\node_modules\semver\package.json
+226 verbose installManyTop reading scoped package data from D:\mywork\node_modules\send\package.json
+227 verbose installManyTop reading scoped package data from D:\mywork\node_modules\sequencify\package.json
+228 verbose installManyTop reading scoped package data from D:\mywork\node_modules\serve-index\package.json
+229 verbose installManyTop reading scoped package data from D:\mywork\node_modules\serve-static\package.json
+230 verbose installManyTop reading scoped package data from D:\mywork\node_modules\setprototypeof\package.json
+231 verbose installManyTop reading scoped package data from D:\mywork\node_modules\sigmund\package.json
+232 verbose installManyTop reading scoped package data from D:\mywork\node_modules\signal-exit\package.json
+233 verbose installManyTop reading scoped package data from D:\mywork\node_modules\sparkles\package.json
+234 verbose installManyTop reading scoped package data from D:\mywork\node_modules\spdx-correct\package.json
+235 verbose installManyTop reading scoped package data from D:\mywork\node_modules\spdx-expression-parse\package.json
+236 verbose installManyTop reading scoped package data from D:\mywork\node_modules\spdx-license-ids\package.json
+237 verbose installManyTop reading scoped package data from D:\mywork\node_modules\statuses\package.json
+238 verbose installManyTop reading scoped package data from D:\mywork\node_modules\stream-consume\package.json
+239 verbose installManyTop reading scoped package data from D:\mywork\node_modules\string_decoder\package.json
+240 verbose installManyTop reading scoped package data from D:\mywork\node_modules\strip-ansi\package.json
+241 verbose installManyTop reading scoped package data from D:\mywork\node_modules\strip-bom\package.json
+242 verbose installManyTop reading scoped package data from D:\mywork\node_modules\strip-indent\package.json
+243 verbose installManyTop reading scoped package data from D:\mywork\node_modules\supports-color\package.json
+244 verbose installManyTop reading scoped package data from D:\mywork\node_modules\through2\package.json
+245 verbose installManyTop reading scoped package data from D:\mywork\node_modules\tildify\package.json
+246 verbose installManyTop reading scoped package data from D:\mywork\node_modules\time-stamp\package.json
+247 verbose installManyTop reading scoped package data from D:\mywork\node_modules\tiny-lr\package.json
+248 verbose installManyTop reading scoped package data from D:\mywork\node_modules\trim-newlines\package.json
+249 verbose installManyTop reading scoped package data from D:\mywork\node_modules\type-is\package.json
+250 verbose installManyTop reading scoped package data from D:\mywork\node_modules\unc-path-regex\package.json
+251 verbose installManyTop reading scoped package data from D:\mywork\node_modules\unique-stream\package.json
+252 verbose installManyTop reading scoped package data from D:\mywork\node_modules\unpipe\package.json
+253 verbose installManyTop reading scoped package data from D:\mywork\node_modules\user-home\package.json
+254 verbose installManyTop reading scoped package data from D:\mywork\node_modules\util-deprecate\package.json
+255 verbose installManyTop reading scoped package data from D:\mywork\node_modules\utils-merge\package.json
+256 verbose installManyTop reading scoped package data from D:\mywork\node_modules\v8flags\package.json
+257 verbose installManyTop reading scoped package data from D:\mywork\node_modules\validate-npm-package-license\package.json
+258 verbose installManyTop reading scoped package data from D:\mywork\node_modules\vinyl\package.json
+259 verbose installManyTop reading scoped package data from D:\mywork\node_modules\vinyl-fs\package.json
+260 verbose installManyTop reading scoped package data from D:\mywork\node_modules\vinyl-named\package.json
+261 verbose installManyTop reading scoped package data from D:\mywork\node_modules\watch\package.json
+262 verbose installManyTop reading scoped package data from D:\mywork\node_modules\websocket-driver\package.json
+263 verbose installManyTop reading scoped package data from D:\mywork\node_modules\websocket-extensions\package.json
+264 verbose installManyTop reading scoped package data from D:\mywork\node_modules\which\package.json
+265 verbose installManyTop reading scoped package data from D:\mywork\node_modules\wrappy\package.json
+266 verbose installManyTop reading scoped package data from D:\mywork\node_modules\xtend\package.json
+267 info package.json expand-tilde@1.2.2 No README data
+268 info package.json findup-sync@0.4.2 No README data
+269 info package.json global-prefix@0.1.4 No README data
+270 info package.json is-windows@0.2.0 No README data
+271 info package.json array-unique@0.2.1 license should be a valid SPDX license expression
+272 info package.json batch@0.5.3 No license field.
+273 info package.json bytes@1.0.0 No license field.
+274 info package.json arr-flatten@1.0.1 license should be a valid SPDX license expression
+275 info package.json connect-livereload@0.4.1 No license field.
+276 info package.json deprecated@0.0.1 No license field.
+277 info package.json duplexer2@0.0.2 license should be a valid SPDX license expression
+278 info package.json filename-regex@2.0.0 license should be a valid SPDX license expression
+279 info package.json gaze@0.5.2 No license field.
+280 info package.json glob-base@0.3.0 license should be a valid SPDX license expression
+281 info package.json glob-watcher@0.0.6 No license field.
+282 info package.json glob2base@0.0.12 No license field.
+283 info package.json glob-stream@3.1.18 No license field.
+284 info package.json flagged-respawn@0.3.2 No license field.
+285 info package.json globule@0.1.0 No license field.
+286 info package.json is-primitive@2.0.0 license should be a valid SPDX license expression
+287 info package.json gulp-util@2.2.20 No license field.
+288 info package.json mime@1.3.4 No license field.
+289 info package.json ms@0.7.1 No license field.
+290 info package.json orchestrator@0.3.7 No license field.
+291 info package.json qs@2.2.5 No license field.
+292 info package.json repeat-element@1.1.2 license should be a valid SPDX license expression
+293 info package.json preserve@0.2.0 license should be a valid SPDX license expression
+294 info package.json rechoir@0.6.2 No license field.
+295 info package.json replace-ext@0.0.1 No license field.
+296 info package.json sequencify@0.0.7 No license field.
+297 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+298 info package.json tiny-lr@0.1.4 No license field.
+299 info package.json unique-stream@1.0.0 license should be a valid SPDX license expression
+300 info package.json utils-merge@1.0.0 No license field.
+301 info package.json vinyl@0.2.3 No license field.
+302 info package.json vinyl-fs@0.3.14 No license field.
+303 info package.json watch@0.11.0 No license field.
+304 info package.json v8flags@2.0.11 No license field.
+305 info package.json xtend@3.0.0 No license field.
+306 info package.json vinyl-named@1.1.0 No license field.
+307 verbose readDependencies loading dependencies from D:\mywork\package.json
+308 silly cache add args [ 'boly-parser', null ]
+309 verbose cache add spec boly-parser
+310 silly cache add parsed spec Result {
+310 silly cache add   raw: 'boly-parser',
+310 silly cache add   scope: null,
+310 silly cache add   name: 'boly-parser',
+310 silly cache add   rawSpec: '',
+310 silly cache add   spec: 'latest',
+310 silly cache add   type: 'tag' }
+311 silly addNamed boly-parser@latest
+312 verbose addNamed "latest" is being treated as a dist-tag for boly-parser
+313 info addNameTag [ 'boly-parser', 'latest' ]
+314 silly mapToRegistry name boly-parser
+315 silly mapToRegistry using default registry
+316 silly mapToRegistry registry https://registry.npmjs.org/
+317 silly mapToRegistry data Result {
+317 silly mapToRegistry   raw: 'boly-parser',
+317 silly mapToRegistry   scope: null,
+317 silly mapToRegistry   name: 'boly-parser',
+317 silly mapToRegistry   rawSpec: '',
+317 silly mapToRegistry   spec: 'latest',
+317 silly mapToRegistry   type: 'tag' }
+318 silly mapToRegistry uri https://registry.npmjs.org/boly-parser
+319 verbose addNameTag registry:https://registry.npmjs.org/boly-parser not in flight; fetching
+320 verbose request uri https://registry.npmjs.org/boly-parser
+321 verbose request no auth needed
+322 info attempt registry request try #1 at 16:57:18
+323 verbose request id 3d1dfc8ec46d0dd9
+324 http request GET https://registry.npmjs.org/boly-parser
+325 http 404 https://registry.npmjs.org/boly-parser
+326 verbose headers { 'content-type': 'application/json',
+326 verbose headers   'cache-control': 'max-age=0',
+326 verbose headers   'content-length': '2',
+326 verbose headers   'accept-ranges': 'bytes',
+326 verbose headers   date: 'Fri, 23 Sep 2016 08:56:39 GMT',
+326 verbose headers   via: '1.1 varnish',
+326 verbose headers   age: '0',
+326 verbose headers   connection: 'keep-alive',
+326 verbose headers   'x-served-by': 'cache-itm7427-ITM',
+326 verbose headers   'x-cache': 'MISS',
+326 verbose headers   'x-cache-hits': '0',
+326 verbose headers   'x-timer': 'S1474620998.501960,VS0,VE801',
+326 verbose headers   vary: 'Accept-Encoding' }
+327 silly get cb [ 404,
+327 silly get   { 'content-type': 'application/json',
+327 silly get     'cache-control': 'max-age=0',
+327 silly get     'content-length': '2',
+327 silly get     'accept-ranges': 'bytes',
+327 silly get     date: 'Fri, 23 Sep 2016 08:56:39 GMT',
+327 silly get     via: '1.1 varnish',
+327 silly get     age: '0',
+327 silly get     connection: 'keep-alive',
+327 silly get     'x-served-by': 'cache-itm7427-ITM',
+327 silly get     'x-cache': 'MISS',
+327 silly get     'x-cache-hits': '0',
+327 silly get     'x-timer': 'S1474620998.501960,VS0,VE801',
+327 silly get     vary: 'Accept-Encoding' } ]
+328 verbose stack Error: Registry returned 404 for GET on https://registry.npmjs.org/boly-parser
+328 verbose stack     at makeError (D:\node.js\node\node_modules\npm\node_modules\npm-registry-client\lib\request.js:264:12)
+328 verbose stack     at CachingRegistryClient.<anonymous> (D:\node.js\node\node_modules\npm\node_modules\npm-registry-client\lib\request.js:242:14)
+328 verbose stack     at Request._callback (D:\node.js\node\node_modules\npm\node_modules\npm-registry-client\lib\request.js:172:14)
+328 verbose stack     at Request.self.callback (D:\node.js\node\node_modules\npm\node_modules\request\request.js:200:22)
+328 verbose stack     at emitTwo (events.js:87:13)
+328 verbose stack     at Request.emit (events.js:172:7)
+328 verbose stack     at Request.<anonymous> (D:\node.js\node\node_modules\npm\node_modules\request\request.js:1067:10)
+328 verbose stack     at emitOne (events.js:82:20)
+328 verbose stack     at Request.emit (events.js:169:7)
+328 verbose stack     at IncomingMessage.<anonymous> (D:\node.js\node\node_modules\npm\node_modules\request\request.js:988:12)
+329 verbose statusCode 404
+330 verbose pkgid boly-parser
+331 verbose cwd D:\mywork\nodejs5
+332 error Windows_NT 6.3.9600
+333 error argv "D:\\node.js\\node\\node.exe" "D:\\node.js\\node\\node_modules\\npm\\bin\\npm-cli.js" "install" "boly-parser" "-D"
+334 error node v4.4.7
+335 error npm  v2.15.8
+336 error code E404
+337 error 404 Registry returned 404 for GET on https://registry.npmjs.org/boly-parser
+337 error 404
+337 error 404 'boly-parser' is not in the npm registry.
+337 error 404 You should bug the author to publish it (or use the name yourself!)
+337 error 404 It was specified as a dependency of 'test'
+337 error 404
+337 error 404 Note that you can also install from a
+337 error 404 tarball, folder, http url, or git url.
+338 verbose exit [ 1, true ]

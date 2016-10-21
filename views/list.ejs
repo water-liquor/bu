@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<!-- <h2>郭瑞丽  蒋茜茜  周梦阳<span><%=pagev%></span></h2> -->
+	<ul>
+		<% for(var i=0;i<news.length;i++){
+			%>
+				<li>
+					<%=news[i].name%>&nbsp;&nbsp;<%=news[i].age%>
+				</li>
+			<%
+		}
+
+		%>
+	</ul>
+</body>
+</html>
